@@ -1,0 +1,43 @@
+memo git
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#
+# Untracked files:
+#	.bash_history
+#	.gitconfig
+#	.lesshst
+#	.ssh/
+#	.vscode/
+#	3D Objects/
+#	AppData/
+#	Contacts/
+#	Documents/
+#	Downloads/
+#	Favorites/
+#	Links/
+#	MicrosoftEdgeBackups/
+#	Music/
+#	NTUSER.DAT
+#	NTUSER.DAT{a0858954-706b-11ea-aa8c-ca8f02981da6}.TM.blf
+#	NTUSER.DAT{a0858954-706b-11ea-aa8c-ca8f02981da6}.TMContainer00000000000000000001.regtrans-ms
+#	NTUSER.DAT{a0858954-706b-11ea-aa8c-ca8f02981da6}.TMContainer00000000000000000002.regtrans-ms
+#	OneDrive/
+#	Pictures/
+#	Saved Games/
+#	Searches/
+#	Videos/
+#	depot_example/
+#	memo/
+#	model/
+#	ntuser.dat.LOG1
+#	ntuser.dat.LOG2
+#	ntuser.ini
+#	sprint_01/
+#
