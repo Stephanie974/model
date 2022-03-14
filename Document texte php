@@ -1,0 +1,18 @@
+cd /etc/apache2/sites-available/
+sudo xed 000-default.conf
+
+
+ServerAdmin webmaster@localhost
+    DocumentRoot /home/moina1706/Documents/SPRINT/Sprint_06
+
+    <Directory "/home/moina1706/Documents/SPRINT/Sprint_06/">
+        Options +FollowSymLinks +Indexes
+        AllowOverride all
+        Require all granted
+    </Directory>
+
+
+Fermer enregistrer 
+
+// Relancer PHP
+sudo a2dissite 000-default.conf && sudo a2ensite 000-default.conf && sudo systemctl reload apache2
